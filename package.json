@@ -5,7 +5,7 @@
     "description": "Seavive mod",
     "main": "src/app.js",
     "author": "ShokomakiRiptiaz/Boulldogo/Vexato/Luuxis",
-    "env": "panel",
+    "env": "azuriom",
     "settings": "https://juststars.strator.gg",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
