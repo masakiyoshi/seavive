@@ -1,7 +1,7 @@
 {
     "name": "seavive",
     "preductname": "Seavive launcher",
-    "version": "3.0.0",
+    "version": "2.1.0",
     "description": "Seavive mod",
     "main": "src/app.js",
     "author": "Shokomaki/Riptiaz/Boulldogo/Vexato/Luuxis",
