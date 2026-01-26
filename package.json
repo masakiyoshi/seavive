@@ -1,12 +1,12 @@
 {
     "name": "seavive",
     "preductname": "Seavive launcher",
-    "version": "2.0.0",
+    "version": "3.0.0",
     "description": "Seavive mod",
     "main": "src/app.js",
     "author": "Shokomaki/Riptiaz/Boulldogo/Vexato/Luuxis",
     "env": "azuriom",
-    "settings": "https://seavive.websr.gg/",
+    "settings": "https://minecraft.seavive.fr/",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "build": "node build.js --obf=true --build=platform",
