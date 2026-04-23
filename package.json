@@ -1,11 +1,11 @@
 {
-    "name": "seavive",
-    "preductname": "Seavive launcher",
+    "name": "DeepParadize",
+    "preductname": "DeepParadize launcher",
     "version": "2.1.1",
-    "description": "Seavive mod",
+    "description": "DeepParadize mod",
     "main": "src/app.js",
     "author": "Shokomaki/Riptiaz/Boulldogo/Vexato/Luuxis",
-    "env": "azuriom",
+    "env": "panel",
     "settings": "https://seavive.net/",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
