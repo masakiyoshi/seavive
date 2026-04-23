@@ -1,7 +1,7 @@
 {
-    "name": "DeepParadize",
+    "name": "Deepparadize",
     "preductname": "DeepParadize launcher",
-    "version": "2.1.4",
+    "version": "3.0.0",
     "description": "DeepParadize mod",
     "main": "src/app.js",
     "author": "Shokomaki, Riptiaz/Boulldogo/Vexato/Luuxis",
