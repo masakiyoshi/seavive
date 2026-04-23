@@ -1,12 +1,12 @@
 {
     "name": "DeepParadize",
     "preductname": "DeepParadize launcher",
-    "version": "2.1.2",
+    "version": "2.1.3",
     "description": "DeepParadize mod",
     "main": "src/app.js",
     "author": "Shokomaki, Riptiaz/Boulldogo/Vexato/Luuxis",
     "env": "azuriom",
-    "settings": "https://site.seavive.net/",
+    "settings": "https://seavive.net/",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "build": "node build.js --obf=true --build=platform",
